@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=YourChosenFont&display=swap'); */
+
+body {
+    /* font-family: 'YourChosenFont', sans-serif; */
+    /* Example: Add some global padding if needed, though Tailwind's container class usually handles this. */
+}
+
+/* Custom component styles can go here */
+/* For example: */
+/*
+.custom-card {
+    @apply bg-white shadow-xl rounded-lg p-6;
+}
+*/
+
+/* Styles for smaller screens if absolutely necessary (prefer Tailwind responsive prefixes) */
+/*
+@media (max-width: 768px) {
+    .custom-mobile-style {
+
+    }
+}
+*/
